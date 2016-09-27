@@ -1,3 +1,4 @@
+Customized from [here](https://github.com/gpakosz/.tmux). Rename `tmux-config` to `.tmux` in `home` folder.
 .tmux
 =====
 
